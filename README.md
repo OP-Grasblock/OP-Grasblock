@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @OP-Grasblock
+- 🌱 I’m currently learning Java and c#
+- I'm intrested in AI learning models
